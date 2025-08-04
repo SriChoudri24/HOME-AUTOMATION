@@ -60,4 +60,7 @@ The Arduino reads characters from the Serial Monitor and toggles each output pin
 
 [Click here to open in Wokwi](#) (Insert your Wokwi link here)
 
+OUTPUT
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/06925950-7074-4bc2-99f3-d3c624569d4d" />
 ---
